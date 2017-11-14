@@ -32,7 +32,7 @@ else
  if subject == 4
    puts "try again"
   redo
-  end #if 
+  end #if
 if subject != 4
    next
   end
@@ -109,3 +109,4 @@ puts "3 Animal Kingdom 🐶 "
 puts " "*5
 puts "enter from choice 1, 2 or 3"
 end
+#great project lomedico!
